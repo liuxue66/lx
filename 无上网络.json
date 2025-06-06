@@ -1,0 +1,175 @@
+{
+    "spider": "https://d.kstore.dev/download/10354/spider.jar",
+  "sites": [
+    {
+      "key": "无上官方资源",
+      "name": "无上官方资源",
+      "type": 1,
+      "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "",
+      "extType": "text"
+    },
+        {
+            "key": "腾讯视频",
+            "name": "腾讯｜视频",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/10354/js/drpy2.min.js",
+            "ext": "https://d.kstore.dev/download/10354/js/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "优酷｜视频",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/10354/js/drpy2.min.js",
+            "ext": "https://d.kstore.dev/download/10354/js/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/10354/js/drpy2.min.js",
+            "ext": "https://d.kstore.dev/download/10354/js/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇异｜视频",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/10354/js/drpy2.min.js",
+            "ext": "https://d.kstore.dev/download/10354/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+        },
+        {
+            "key": "雨滴",
+            "name": "雨滴｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": "100"
+            }
+        },
+        {
+            "key": "诺雪",
+            "name": "诺雪｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.rx4k.top",
+                "dataKey": "ZX10ysTYZWtIJCTU",
+                "dataIv": "ZX10ysTYZWtIJCTU",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "橘子",
+            "name": "橘子｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://api1.bffree.cn",
+                "dataKey": "2015692015692015",
+                "dataIv": "2015692015692015",
+                "deviceId": "",
+                "version": "300"
+            }
+        },
+        {
+            "key": "晴天",
+            "name": "晴天｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.sun4k.top",
+                "dataKey": "sBxqXVF5pAHbGzrH",
+                "dataIv": "sBxqXVF5pAHbGzrH",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "仓鼠",
+            "name": "仓鼠｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "水滴",
+            "name": "水滴｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://1.94.105.93",
+                "dataKey": "gKdQKLbwhhLp4Ytv",
+                "dataIv": "gKdQKLbwhhLp4Ytv",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "咖啡",
+            "name": "咖啡｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://160.202.243.62:2566",
+                "dataKey": "qwertyuiopqwerty",
+                "dataIv": "qwertyuiopqwerty",
+                "deviceId": "",
+                "version": "120"
+            }
+        }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "https://cj.xn--ihq6ks6mozmxil6zs7uvcuq.cc/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
+    "parses": [
+        {
+            "name": "无上免费",
+            "type": "1",
+            "url": "https://mfjx.iwsyy.xyz/?url="
+        },
+                {
+      "name": "牛马",
+      "type": 1,
+      "url": "http://niiuma.qi-simple.top//jiexi.php?data=c5e4ceaa53999d79d25ef9a7e00997d1&url="
+        },
+                {
+      "name": "无上自用",
+      "type": 1,
+      "url": "http://jiexi.xn--ihq6ks6mozmxil6zs7uvcuq.cc/api/?key=1ea98146e55968f1f5cfbf51a4e1737e&url="
+        },
+                {
+      "name": "夏夜4k",
+      "type": 1,
+      "url": "http://8.155.50.80/xiayexk.php?url="
+        }],
+  "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"]
+}
